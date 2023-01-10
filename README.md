@@ -25,6 +25,7 @@ qmake && make
 ```
 
 ## Addons
-* [Qt] (https://www.qt.io/) - Cross-Platform software for embedded & desktop
-* [Video] (https://youtu.be/W5CXwCxRi3E) - gameplay
-* [Assets] (https://www.kenney.nl/) - assets
+* [Qt](https://www.qt.io/) - Cross-Platform software for embedded & desktop
+* [Video](https://youtu.be/W5CXwCxRi3E) - gameplay
+* [Assets](https://www.kenney.nl/) - assets
+* [Play online](https://przemekkkth.github.io/racing2d/index.html) - game hosted on GitHub
